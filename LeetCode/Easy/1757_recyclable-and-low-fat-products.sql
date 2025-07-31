@@ -1,8 +1,8 @@
---Title: Recyclable and Low Fat Products
---Problem ID: 1757
---Difficulty: Easy
---Link: https://leetcode.com/problems/recyclable-and-low-fat-products/
---Author: Connor Valle
+-- Title: Recyclable and Low Fat Products
+-- Problem ID: 1757
+-- Difficulty: Easy
+-- Link: https://leetcode.com/problems/recyclable-and-low-fat-products/
+-- Author: Connor Valle
 
 /*
 Table: Products
