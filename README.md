@@ -2,7 +2,7 @@
 
 A personal repository for SQL practice problems from platforms like LeetCode and HackerRank.  
 
-## 🗂 Planned Structure
+## Planned Structure
 
 ```
 sql-problems/
