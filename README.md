@@ -2,7 +2,7 @@
 
 🧩 A personal repository for SQL practice problems from platforms like LeetCode and HackerRank.
 
-These SQL solutions were written and tested by me. Problem descriptions are © LeetCode.
+All solutions are my own unless otherwise noted. Problems sourced from LeetCode.
 
 ## Planned Structure
 
