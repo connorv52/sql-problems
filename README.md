@@ -1,4 +1,18 @@
 # SQL Problems
 
 A personal repository for SQL practice problems from platforms like LeetCode and HackerRank.  
-This structure is being set up ahead of time — problems will be added as I solve them.
+
+## 🗂 Planned Structure
+
+```
+sql-problems/
+├── LeetCode/
+│ ├── Easy/
+│ ├── Medium/
+│ └── Hard/
+├── HackerRank/
+│ ├── Basic Select/
+│ ├── Joins/
+│ ├── Aggregates/
+│ └── Advanced/
+```
