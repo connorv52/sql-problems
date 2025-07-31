@@ -4,12 +4,11 @@
 -- Source: https://leetcode.com/problems/recyclable-and-low-fat-products/
 -- Author: Connor Valle
 -- 
--- Schema:
--- Products(product_id INT, low_fats ENUM('Y', 'N'), recyclable ENUM('Y', 'N'))
+-- Schema: Products(product_id INT, low_fats ENUM('Y', 'N'), recyclable ENUM('Y', 'N'))
 --
--- Write a SQL query to find the ids of products that are both low fat and recyclable. Return the result table in any order.
+-- Description: Write a SQL query to find the ids of products that are both low fat and recyclable. Return the result table in any order.
 --
--- Example:
+-- Example 1:
 -- Input:
 -- +-------------+----------+------------+
 -- | product_id  | low_fats | recyclable |
