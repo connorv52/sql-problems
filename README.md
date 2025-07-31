@@ -1,4 +1,4 @@
-# SQL Problems
+# SQL Problems 🧩
 
 A personal repository for SQL practice problems from platforms like LeetCode and HackerRank.  
 
