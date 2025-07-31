@@ -1,7 +1,7 @@
 -- Title: Recyclable and Low Fat Products
 -- Problem ID: 1757
 -- Difficulty: Easy
--- Source: https://leetcode.com/problems/recyclable-and-low-fat-products/
+-- Link: https://leetcode.com/problems/recyclable-and-low-fat-products/
 -- Author: Connor Valle
 -- 
 -- Schema: Products(product_id INT, low_fats ENUM('Y', 'N'), recyclable ENUM('Y', 'N'))
