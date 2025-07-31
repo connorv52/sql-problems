@@ -1,0 +1,3 @@
+-- Placeholder file
+-- This file will eventually contain SQL problems solved from LeetCode (Medium difficulty).
+-- Created ahead of solving any Medium-level problems.
