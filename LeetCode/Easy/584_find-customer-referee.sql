@@ -5,7 +5,6 @@
 -- Author: Connor Valle
 
 /*
-
 Table: Customer
 
 +-------------+---------+
@@ -54,7 +53,6 @@ Output:
 | Bill |
 | Zack |
 +------+
-
 */
 
 -- ✅ Solution:
