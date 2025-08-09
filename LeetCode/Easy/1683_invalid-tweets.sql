@@ -48,7 +48,7 @@ Tweet 1 has length = 11. It is a valid tweet.
 Tweet 2 has length = 33. It is an invalid tweet.
 */
 
--- ✅ Solution:
+-- Solution:
 SELECT tweet_id 
 FROM Tweets
 -- LENGTH() function counts characters
