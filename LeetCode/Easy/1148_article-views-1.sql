@@ -53,7 +53,7 @@ Output:
 +------+
 */
 
--- ✅ Solution:
+-- Solution:
 -- Use DISTINCT to make each author appear only once in the query output
 SELECT DISTINCT(author_id) AS id 
 FROM Views
